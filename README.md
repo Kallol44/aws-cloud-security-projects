@@ -2,8 +2,6 @@
 
 This repository contains hands-on AWS cloud security projects
 
----
-
 ## Project 1: AWS Security Monitoring & Alerting
 
 **Description:**
@@ -22,7 +20,6 @@ A comprehensive project simulating a real-world attack (public S3 exposure) and 
 
 **GitHub Link:** [aws-security-monitoring](https://github.com/Kallol44/aws-security-monitoring)
 
----
 
 ## Project 2: AWS VPC App Deployment + CSPM Scan (Prowler)
 
@@ -38,8 +35,6 @@ This project demonstrates deploying a simple application inside a VPC, and then 
 
 **Folder:** `project2_aws_vpc_cspm_prowler`
 
----
-
 ## How to Use
 
 1. Explore each project folder
@@ -47,7 +42,6 @@ This project demonstrates deploying a simple application inside a VPC, and then 
 3. Review architecture diagram (in `/docs`)
 4. View screenshots for step-by-step actions (in `/screenshots`)
 
----
 
 ## Author
 
@@ -56,10 +50,7 @@ This project demonstrates deploying a simple application inside a VPC, and then 
 * [LinkedIn Profile](https://www.linkedin.com/in/kallol-das)
 * AWS Security Certified | CCSK | SAP Basis Expert
 
----
 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
----
