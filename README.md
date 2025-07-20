@@ -47,7 +47,7 @@ This project demonstrates deploying a simple application inside a VPC, and then 
 
 **Kallol Das**
 
-* [LinkedIn Profile](https://www.linkedin.com/in/kallol-das)
+* [LinkedIn Profile](https://www.linkedin.com/in/kallola-das-6aa28181/)
 * AWS Security Certified | CCSK | SAP Basis Expert
 
 
