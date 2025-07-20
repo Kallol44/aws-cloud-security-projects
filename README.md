@@ -16,9 +16,7 @@ A comprehensive project simulating a real-world attack (public S3 exposure) and 
 * SNS email alerts to notify on threats
 * Architecture diagram & screenshots included
 
-**Folder:** `project1_aws_security_monitoring`
-
-**GitHub Link:** [aws-security-monitoring](https://github.com/Kallol44/aws-security-monitoring)
+📁 **Folder:** [`project1_aws_security_monitoring`](https://github.com/Kallol44/aws-cloud-security-projects/tree/main/project1_aws_security_monitoring)
 
 
 ## Project 2: AWS VPC App Deployment + CSPM Scan (Prowler)
@@ -33,7 +31,7 @@ This project demonstrates deploying a simple application inside a VPC, and then 
 * CSPM scan using open-source tool Prowler
 * Python-based Prowler execution and report generation (HTML, JSON)
 
-**Folder:** `project2_aws_vpc_cspm_prowler`
+📁 **Folder:** [`project2_aws_vpc_cspm_prowler`](https://github.com/Kallol44/aws-cloud-security-projects/tree/main/project2_aws_vpc_cspm_prowler)
 
 ## How to Use
 
